@@ -7,7 +7,7 @@ group: home
 <img src="/static/img/Eva-Payne-e1503440546924-300x300.jpg" class="img-responsive center-block" alt="Eva Payne photo"/>
 
 <h1 class="text-center">Eva Payne, Ph.D.</h1>
-<h2 class="text-center">[Department of History](https://history.olemiss.edu/)</h2>
+<h2 class="text-center">[Department of History](https://history.olemiss.edu/)<br>University of Mississippi</h2>
 <h2 class="text-center">University of Mississippi</h2>
 
 <p class="lead text-justify">
