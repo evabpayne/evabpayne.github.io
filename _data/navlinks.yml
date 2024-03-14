@@ -2,9 +2,9 @@
   url: /
   group: home
 
-- name: publications
-  url: /publications
-  group: publications
+- name: articles
+  url: /articles
+  group: articles
 
 # - name: blog
 #   url: /blog

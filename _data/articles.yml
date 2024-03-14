@@ -1,25 +1,9 @@
-- title: "Quantifying organellar ultrastructure in cryo-electron tomography using a surface morphometrics pipeline."
-  citation: '**Barad BA†**, Medina M†, Fuentes D, Wiseman, RL, Grotjahn DA. *Journal of Cell Biology* 2023 †Equal contribution'
-  date: "2023-02-14"
-  image: '/static/img/pub/surfacemorphometrics-01.png'
-  biorxiv: 2022.01.23.477440
-  pmid: 36786771
-  pdf: '/static/pdf/Barad_Medina_Membrane_Morphometrics_Final.pdf'
+- title: "Deportation as Rescue: White Slaves, Women Reformers, and the US Bureau of Immigration"
+  citation: "Eva Payne. 2021. *Journal of Women's History* 33:40–66."
   links:
-    - name: "Surface Morphometrics on Github"
-      url: 'https://github.com/GrotjahnLab/surface_morphometrics/'
-    - name: "EMPIAR Deposition (Tilt Series, Tomograms, Segmentations, and Surfaces)"
-      url: 'https://www.ebi.ac.uk/empiar/EMPIAR-11370/'
-    - name: "Zenodo Deposition (Quantifications and Statistics)"
-      url: 'https://zenodo.org/record/7510830'
-    - name: "Review Commons Reviews"
-      url: "https://www.biorxiv.org/content/10.1101/2022.01.23.477440v3#review"
-    - name: "Wiseman Lab @ Scripps Research"
-      url: 'http://www.wiseman.scripps.edu/'
-    - name: "Preprint Tweetorial"
-      url: 'https://twitter.com/benjaminbarad/status/1485829710533693443'
-    - name: "Journal Tweetorial"
-      url: 'https://twitter.com/benjaminbarad/status/1625573810249555968'
+    - name: "Journal of Women's History"
+      url: 'https://muse.jhu.edu/article/840201'
+
 
 - title: "Mapping Protein Dynamics at High-Resolution with Temperature-Jump X-ray Crystallography"
   citation: "Wolff AM, Nango E, Young ID, Brewster AS, Kubo M, Nomura T, Sugahara M, Owada S, **Barad BA**, Ito K, Bhowmick A, Carbajo S, Hino T, Holton JM, Im D, O'Riordan LJ, Tanaka T, Tanaka R, Sierra RG, Yumoto F, Tono K, Iwata S, Sauter NK, Fraser JS, Thompson MC. (2022) *bioRxiv*."

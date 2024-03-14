@@ -4,13 +4,12 @@ layout: default
 group: contact
 ---
 
-<h1 class="page-header text-center"> Contact </h1>
+<h1 class="page-header text-left"> Contact </h1>
+
+[Email](mailto:ebpayne@olemiss.edu)
 
 Department of History\
 310 Bishop Hall\
-University, MS 38677\\
-
-
-[Email](mailto:ebpayne@olemiss.edu).
+University, MS 38677\
 
 [Department of History faculty page](https://history.olemiss.edu/eva-payne/)
