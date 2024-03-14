@@ -10,6 +10,6 @@ group: contact
 
 Department of History\
 310 Bishop Hall\
-University, MS 38677\
+University, MS 38677
 
 [Department of History faculty page](https://history.olemiss.edu/eva-payne/)

@@ -6,6 +6,10 @@
   url: /articles
   group: articles
 
+- name: book
+  url: /book
+  group: book
+
 # - name: blog
 #   url: /blog
 #   group: blog
