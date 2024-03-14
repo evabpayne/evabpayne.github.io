@@ -6,22 +6,16 @@ group: home
 
 <img src="/static/img/Giving_microed_talk.jpg" class="img-responsive center-block" alt="Giving a talk about recent developments in electron crystallography, February 2014"/>
 
-<h1 class="text-center">Benjamin Barad, Ph.D.</h1>
-<h2 class="text-center">New Faculty at OHSU</h2>
+<h1 class="text-center">Eva Payne, Ph.D.</h1>
+<h2 class="text-center">[Department of History](https://history.olemiss.edu/)</h2>
+<h2 class="text-center">University of Mississippi</h2>
 
 <p class="lead text-justify">
   
-I am a structural biologist with a special interest in emerging computational and experimental methods in electron microscopy. In January 2024, I will be starting my lab at [Oregon Health & Science University](https://www.ohsu.edu/school-of-medicine/chemical-physiology-and-biochemistry) in Portland, OR. The focus of my lab will be leveraging cryo-electron tomography as well as novel computational analyses developed in the lab to study the remodeling of mammalian organelles by intracellular bacteria and their effector proteins. Cryo-electron tomography has the capacity to reveal both protein localization and structure at the same time as cytoskeletal and membrane ultrastructure within cells within a single dataset, and the long term goal of my lab is to build workflows that unify and contextualize protein structure and cellular ultrastructure into a multi-scale understanding of cellular function and regulation. <br><br>
+ Eva Payne is a historian of the 19th- and 20th-century U.S. with a focus on women, gender, and sexuality and the U.S. in transnational perspective. She received a BA from the University of Wisconsin, Madison, an MDiv from Harvard Divinity School, and a PhD in American Studies from Harvard University. <br><br>
 
+Her current book project, Purity and Power: Americans and the International Crusade Against Sexual Vice, 1870–1937 shows how American reformers transformed sexual vice into an international political and humanitarian concern. As they worked to eradicate prostitution and trafficking, they promoted sexual self-control for both men and women as the cornerstone of civilization and the basis of American exceptionalism. The book argues that the fight against sexual vice was a crucial way Americans sought to remake other nations in their image and enhance US global standing in an imperial age. Reformers argued that their vision of civilized sexual morality was a precondition for modern nationhood and democracy. They successfully pushed for international agreements that mirrored US laws, calling for states to criminalize prostitution and restrict migration, all in the name of protecting women. At the same time, the project attends to the experiences of the women whom reformers claimed to rescue. Their words defy the dichotomies that shaped reformers’ vision: choice and coercion, free and unfree labor, white sexual innocence and the assumed depravity of people of color. <br><br> 
 
-I completed my undergraduate degree in Biological Chemistry at Stanford University, where I worked with [Elizabeth Sattely](http://www.stanford.edu/group/sattelygroup/cgi-bin/wordpress/) investigating bacterial degradation of the plant polymer lignin. While there, I grew to love the collective regulation of large-scale ultrastructural features of organisms (such as the plant cell wall) by individual enzymes. This is a passion that has continue to fuel my scientific path to this day. <br>
+Payne is also engaged in a number of public history projects. She has worked on exhibitions of art and historical objects at museums and galleries, including the Harvard Art Museum and the Schlesinger Library on the History of Women in America. At the University of Mississippi, she is co-director of the Invisible Histories Project – Mississippi, a Mellon Foundation-funded project that documents and preserves Mississippi’s LGBTQ+ history through oral histories and archival collecting. <br><br>
 
-
-I received my PhD in biophysics from UCSF in the lab of [James Fraser](http://fraserlab.com), where I developed methods for the [building](https://elifesciences.org/articles/17219) and [validating atomic models](https://www.nature.com/articles/nmeth.3541) generated from single particle electron microscopy. I also developed [novel computational analysis tools for time-resolved x-ray scattering experiments](https://www.nature.com/articles/s41557-019-0329-3) as well as investigating the [mechanisms of activity of mammalian chitinases](https://onlinelibrary.wiley.com/doi/10.1002/pro.3822).  <br><br>
-
-
-Previous to starting my lab, I worked as a postdoc with [Danielle Grotjahn](https://www.scripps.edu/faculty/grotjahn/), using cryo-electron tomography of focused ion beam-thinned cells to quantify mitochondrial morphology and solve _in situ_ protein structures. While there, I developed the [Surface Morphometrics Pipeline](https://github.com/GrotjahnLab/surface_morphometrics), the ongoing development of which will continue in the Barad lab. I also developed automation advances that allowed the collection and processing of hundreds of tilt series, and used these advances to study changes to the architecture and regulation of mitochondrial fission in response to varied chemical and genetic perturbations. Some of that work is ongoing! <br><br>
-
-
-Beyond my scientific interests, I am excited about food and cooking, coffee, 3D printing, and games. 
 </p>

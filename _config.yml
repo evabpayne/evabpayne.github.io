@@ -1,7 +1,7 @@
-name: "Benjamin Barad"
-description: "The Personal Homepage for Benjamin Barad"
+name: "Eva Payne"
+description: "Personal website of Eva Payne"
 
-url: "http://benjaminbarad.com"
+url: "evapayne.github.io"
 
 gems: [jekyll-paginate]
 paginate: 5
