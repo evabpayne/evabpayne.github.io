@@ -12,9 +12,10 @@ html {
 }
 body {
   margin: 0;
-  background-image: url('/static/img/Eva-Payne.jpg');
-  background-size: cover;
-  background-position: center;
+  /* background-image: url('/static/img/Eva-Payne.jpg');
+   * background-size: cover;
+   *background-position: center;
+   */
 }
 article,
 aside,
