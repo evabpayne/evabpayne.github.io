@@ -2,13 +2,17 @@
   url: /
   group: home
 
+- name: book
+  url: /book
+  group: book
+
 - name: articles
   url: /articles
   group: articles
 
-- name: book
-  url: /book
-  group: book
+- name: media
+  url: /media
+  group: media
 
 # - name: blog
 #   url: /blog
